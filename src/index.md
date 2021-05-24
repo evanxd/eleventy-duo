@@ -1,8 +1,7 @@
 ---
 layout: home
-title: 'Eleventy Duo'
 ---
 
-# Hello World
+# Tseng-Jen (Evan) Tseng
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Web Developer / Open Source Contributor / Entrepreneur
