@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
+# Evan Tseng / evanxd
 
-# Tseng-Jen (Evan) Tseng
-
-Web Developer / Open Source Contributor / Entrepreneur
+Web 開發者 / 開源軟體貢獻者 / 創業者
